@@ -34,7 +34,7 @@ my-treasure
 ===========
 
 
-    Treasury Package
+    My Treasure Package
 
 
 A longer description of your project goes here...
